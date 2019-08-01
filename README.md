@@ -1,7 +1,6 @@
+#SimpalmLogger
 
 www.simpalm.com
-
-SimpalmLogger
 
 SimpalmLogger is a framework which can be used to generate log file for a particular session of an application . It generates entire details which helps iOS developer to debug and detect the issues which may encounter with in certain flow of an  application. One single log can generate details like :
 
@@ -17,7 +16,7 @@ We can get this log file for current session by two ways :
  
      By sending that log file as attachment through email.
 
-USE
+#USE
 
 Just drag and drop the SimpalmLogger into your application.
 
@@ -44,7 +43,7 @@ We are having event Log categories like 
          .e →error , .i -> info , .v →verbose , .d → debug , .w →warning, .s →severe .
          
          
-How to get Log files
+#How to get Log files
 
 1. From iTunes : 
 
