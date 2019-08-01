@@ -1,0 +1,11 @@
+framework module SimpalmLogger {
+  umbrella header "SimpalmLogger.h"
+
+  export *
+  module * { export * }
+}
+
+module SimpalmLogger.Swift {
+    header "SimpalmLogger-Swift.h"
+    requires objc
+}
