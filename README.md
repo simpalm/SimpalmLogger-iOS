@@ -51,7 +51,7 @@ Then in applicationWillTerminate we have to write only this code:
 
           Logger.writeToLogFile(logs: Logger.fileContent)
           
-          Set UIFileSharingEnabled to 'Yes' in app's info.plist 
+          Note: Set UIFileSharingEnabled to 'Yes' in app's info.plist 
           
 Run that application throughout that session then terminate it .
 
