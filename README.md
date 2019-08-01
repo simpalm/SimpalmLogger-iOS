@@ -28,7 +28,7 @@ Then import SimpalmLogger framework in your file like:
      
 Then just write your log like:
 
-        if let err =error{
+        if let err = error{
             Logger.log(event: .e, message: "Login Error")
             …..
             }
