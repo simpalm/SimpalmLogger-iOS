@@ -38,7 +38,7 @@ Then just write your log like:
             
 We are having event Log categories like 
 
-         .e →error , .i -> info , .v →verbose , .d → debug , .w →warning, .s →Severe .
+         .e →error , .i -> info , .v →verbose , .d → debug , .w →warning, .s →severe .
          
          
 How to get Log files
