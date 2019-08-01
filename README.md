@@ -1,3 +1,6 @@
+
+www.simpalm.com
+
 SimpalmLogger
 
 SimpalmLogger is a framework which can be used to generate log file for a particular session of an application . It generates entire details which helps iOS developer to debug and detect the issues which may encounter with in certain flow of an  application. One single log can generate details like :
